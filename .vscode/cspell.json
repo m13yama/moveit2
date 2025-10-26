@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-words",
+      "path": "../custom-words.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": [
+    "custom-words"
+  ],
+  "words": [
+    "Yamamamoto",
+    "Yuk",
+  ]
+}

@@ -45,9 +45,6 @@ qtcreator-*
 # Emacs
 .#*
 
-# VSCode
-.vscode
-
 # Vim
 *.swp
 
@@ -61,3 +58,7 @@ qtcreator-*
 
 _build
 _autosummary
+
+.cache
+compile_commands.json
+.clangd
